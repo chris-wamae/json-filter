@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HS9rdmh0i0hDB8J6Z7YOzibv/7BQtkFe0BuohtTex972w7VyK6EUhBZFC69syqGYkeQxFUF1C/goA8bm2unovA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chris\\development\\json-filter\\JsonFilter\\JsonFilter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chris\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
