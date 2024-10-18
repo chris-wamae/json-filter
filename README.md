@@ -1,0 +1,1 @@
+This is a Console application developed using C# that takes the json file of foundational foods available from the [USDA website](https://fdc.nal.usda.gov/download-datasets.html) and filteres the food description and calorie count into a new json file for use by the [dietsaint web application](https://github.com/chris-wamae/dietsaint).
