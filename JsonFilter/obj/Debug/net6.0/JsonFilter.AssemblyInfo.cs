@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JsonFilter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c64cb1ef05665f00c1a204a0da66225b85ed0848")]
 [assembly: System.Reflection.AssemblyProductAttribute("JsonFilter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JsonFilter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
